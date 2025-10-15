@@ -54,8 +54,9 @@ Passionate about building **production-ready applications** and **scalable cloud
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- ArnabMallick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-mallick-06565a206)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnab--mallick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-mallick-06565a206)  
 [![Gmail](https://img.shields.io/badge/Email-devopsarnab08@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopsarnab08@gmail.com)
+
 
 
 
