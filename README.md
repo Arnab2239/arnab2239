@@ -1,54 +1,60 @@
-# Hi there 👋, I'm Arnab Mallick
+<!-- Typing SVG -->
+<h1 align="center">Hello Dosto 👋, I'm Arnab Mallick</h1>
 
-### DevOps Engineer | AWS & DevOps Enthusiast  
+### 🚀 About Me
+I'm a **DevOps Engineer & Cloud Enthusiast** from 🇮🇳 India, specializing in DevOps, Cloud, and Platform Engineering.  
+Passionate about building **production-ready applications** and **scalable cloud infrastructure**.  
 
-🌍 Location: India
-
----
-
-## 🧰 Skills & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 Currently working on **AWS Cloud solutions**, **Terraform projects**, and **DevOps automation**  
+- 🌱 Always learning about **emerging DevOps tools** and best practices  
+- 👯 Looking to collaborate on **open-source DevOps projects**  
+- 💬 Ask me about **AWS, Terraform, Ansible, Docker, Kubernetes, Jenkins, Linux**  
+- ⚡ Fun fact: I love sharing knowledge through mentoring and automation  
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 1. [Django Notes App Deployment with Ansible](https://github.com/Arnab2239/ansibale-projects-Django-Notes-App.git)
-Automated deployment of Django Notes App using Ansible with Docker and Nginx.  
-- Ansible playbooks for setup  
-- Dockerized app with Nginx reverse proxy  
-- Easy deployment with a single command  
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 2. [Terraform Demo Code](https://github.com/Arnab2239/terraform_demo_code.git)
-Hands-on Terraform project demonstrating AWS infrastructure automation.  
-- Create EC2 instances, VPCs, and Security Groups  
-- Modular and reusable Terraform code  
-- Great for learning Infrastructure as Code (IaC)  
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+
+**Databases & Monitoring:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 ![Arnab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnab2239&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab2239&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- ArnabMallick-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arnab-mallick-06565a206)  
+### 🏆 GitHub Trophies
+![Arnab's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arnab2239&theme=radical&row=1&column=5)  
 
 ---
 
-## ⚡ Fun Fact
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn- ArnabMallick-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arnab-mallick-06565a206)  
+[![Email](https://img.shields.io/badge/Email-devopsarnab08@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:devopsarnab08@gmail.com)  
 
-I love building automated solutions that make life easier and exploring new DevOps tools to enhance productivity!
+---
+
